@@ -76,7 +76,7 @@ Contact: student contact number
 
 **IssuedBooks table:**
 
-![](issued_books.png)
+![](issuedbooks_table.png)
 
 id : an integer representing the primary key  
 SN: The book serial number – is a foreign key
@@ -126,7 +126,8 @@ StudentContact: Student contact number IssueDate: the date the book was issued.
 This is a group project of not more than two students. It could also be implemented individually. If you choose to work in a team, then both students should work on the project and both students should submit the same project files. A demonstration may be required.
 
 **Due date**
-**<italic>Please, submit no later than December 7. You will have your project demonstration on December 8 & 9 during your labs.</italic>**
+
+**Please, submit no later than December 7. You will have your project demonstration on December 8 & 9 during your labs.**
 
 The following criteria will be used to evaluate the project:
 
