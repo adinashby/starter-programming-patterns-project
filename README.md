@@ -107,13 +107,13 @@ StudentContact: Student contact number IssueDate: the date the book was issued.
 **Steps to follow**
 
 1. Create and populate the database using JDBC within your application or in a separate application or using SQLiteStudio.
-2. Designtheuserinterface(GUIorConsole).
-3. Createthemainclasses.
+2. Design the user interface(GUI or Console).
+3. Create the main classes.
 4. Implement the MVC architecture.
-5. VerifyifCRUDoperationsimplementedbythemethodscorrectlyupdatethedatabase.
-6. ConsiderInternationalization(choosetwoLocaleobjects).
-7. Refactorthecodetoapplysomedesignpatterns.
-8. DocumentyourcodeusingJavaDoc.
+5. Verify if CRUD operations implemented by the methods correctly update the database.
+6. Consider Internationalization(choose two Localeo bjects).
+7. Refactor the code to apply some design patterns.
+8. Document your code using JavaDoc.
 9. Create a Test class using JUnit to test the controller methods. All tests should pass.
 
 **What to Submit**
@@ -123,11 +123,11 @@ StudentContact: Student contact number IssueDate: the date the book was issued.
 3. The output should be clear and well-presented containing messages to reflect the code testing.
 4. A snapshot showing which tests have passed.
 
-This is a group project of not more than two students. It could also be implemented individually. If you choose to work in a team, then both students should work on the project and both students should submit the same project files. A demonstration may be required.
+**This is a group project of not more than two students.** It could also be implemented individually. If you choose to work in a team, then both students should work on the project and only one student should accept the project and create a repository. A demonstration may be required.
 
 **Due date**
 
-**Please, submit no later than December 7. You will have your project demonstration on December 8 & 9 during your labs.**
+**Please, submit no later than April 30. You will have your project demonstration on May 1st & 2nd during your labs.**
 
 The following criteria will be used to evaluate the project:
 
