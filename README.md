@@ -125,10 +125,6 @@ StudentContact: Student contact number IssueDate: the date the book was issued.
 
 **This is a group project of not more than two students.** It could also be implemented individually. If you choose to work in a team, then both students should work on the project and only one student should accept the project and create a repository. A demonstration may be required.
 
-**Due date**
-
-**Please, submit no later than April 30. You will have your project demonstration on May 1st & 2nd during your labs.**
-
 The following criteria will be used to evaluate the project:
 
 - Functionality (correct output, efficiency,..)
